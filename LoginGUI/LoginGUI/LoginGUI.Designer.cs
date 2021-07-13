@@ -29,20 +29,21 @@ namespace LoginGUI
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnManager = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.btnTeacher = new System.Windows.Forms.Button();
+            this.btnStudent = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // btnManager
             // 
-            this.button1.Location = new System.Drawing.Point(185, 99);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(122, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Login as Manager";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnManager.Location = new System.Drawing.Point(185, 99);
+            this.btnManager.Name = "btnManager";
+            this.btnManager.Size = new System.Drawing.Size(122, 23);
+            this.btnManager.TabIndex = 0;
+            this.btnManager.Text = "Login as Manager";
+            this.btnManager.UseVisualStyleBackColor = true;
+            this.btnManager.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -55,24 +56,25 @@ namespace LoginGUI
             this.label1.Text = "Login System";
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
-            // button2
+            // btnTeacher
             // 
-            this.button2.Location = new System.Drawing.Point(185, 154);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(122, 23);
-            this.button2.TabIndex = 4;
-            this.button2.Text = "Login as Teacher";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnTeacher.Location = new System.Drawing.Point(185, 154);
+            this.btnTeacher.Name = "btnTeacher";
+            this.btnTeacher.Size = new System.Drawing.Size(122, 23);
+            this.btnTeacher.TabIndex = 4;
+            this.btnTeacher.Text = "Login as Teacher";
+            this.btnTeacher.UseVisualStyleBackColor = true;
+            this.btnTeacher.Click += new System.EventHandler(this.btnTeacher_Click);
             // 
-            // button3
+            // btnStudent
             // 
-            this.button3.Location = new System.Drawing.Point(185, 208);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(122, 23);
-            this.button3.TabIndex = 5;
-            this.button3.Text = "Login as Student";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.btnStudent.Location = new System.Drawing.Point(185, 208);
+            this.btnStudent.Name = "btnStudent";
+            this.btnStudent.Size = new System.Drawing.Size(122, 23);
+            this.btnStudent.TabIndex = 5;
+            this.btnStudent.Text = "Login as Student";
+            this.btnStudent.UseVisualStyleBackColor = true;
+            this.btnStudent.Click += new System.EventHandler(this.button3_Click);
             // 
             // LoginGUI
             // 
@@ -80,11 +82,12 @@ namespace LoginGUI
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.ClientSize = new System.Drawing.Size(489, 324);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.btnStudent);
+            this.Controls.Add(this.btnTeacher);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnManager);
             this.Name = "LoginGUI";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Mark Management Login System";
             this.Load += new System.EventHandler(this.LoginGUI_Load);
             this.ResumeLayout(false);
@@ -94,10 +97,10 @@ namespace LoginGUI
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnManager;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnTeacher;
+        private System.Windows.Forms.Button btnStudent;
     }
 }
 
