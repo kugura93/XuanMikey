@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\PRN292\LoginGUI\LoginGUI\bin\Debug\LoginGUI.exe
+C:\Users\ADMIN\Documents\PRN292\LoginGUI\LoginGUI\bin\Debug\LoginGUI.pdb
+C:\Users\ADMIN\Documents\PRN292\LoginGUI\LoginGUI\obj\Debug\LoginGUI.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\PRN292\LoginGUI\LoginGUI\obj\Debug\LoginGUI.LoginGUI.resources
+C:\Users\ADMIN\Documents\PRN292\LoginGUI\LoginGUI\obj\Debug\LoginGUI.LoginInput.resources
+C:\Users\ADMIN\Documents\PRN292\LoginGUI\LoginGUI\obj\Debug\LoginGUI.Properties.Resources.resources
+C:\Users\ADMIN\Documents\PRN292\LoginGUI\LoginGUI\obj\Debug\LoginGUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\PRN292\LoginGUI\LoginGUI\obj\Debug\LoginGUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\PRN292\LoginGUI\LoginGUI\obj\Debug\LoginGUI.exe
+C:\Users\ADMIN\Documents\PRN292\LoginGUI\LoginGUI\obj\Debug\LoginGUI.pdb
