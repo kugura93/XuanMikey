@@ -1,0 +1,16 @@
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\bin\Debug\PRN292_Project.exe
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\bin\Debug\PRN292_Project.pdb
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.csprojAssemblyReference.cache
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.Properties.Resources.resources
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.csproj.GenerateResource.cache
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.csproj.CoreCompileInputs.cache
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.exe
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.pdb
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.StudentForm.resources
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.Profile.resources
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.UserDetail.resources
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\bin\Debug\PRN292_Project.exe.config
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.GradeView.resources
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.Login.resources
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.AddCourse.resources
+C:\Users\HLC\source\repos\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.ChangePwd.resources
